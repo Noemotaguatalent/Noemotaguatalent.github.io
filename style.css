@@ -6,13 +6,13 @@ body {
 }
 
 #all-contents {
-    max-width: 800px;
+    max-width: 40px;
     margin: auto;
 }
 
 /* navigation menu */
 nav {
-    background: rgb(0, 0, 0);
+    background: rgb(228, 10, 10);
     margin: 0 auto;
     display: flex;
     padding: 10px;
